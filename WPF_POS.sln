@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_POS", "WPF_POS\WPF_POS.csproj", "{772FAC0A-FA69-4C7B-8522-262AAA061382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772FAC0A-FA69-4C7B-8522-262AAA061382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772FAC0A-FA69-4C7B-8522-262AAA061382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772FAC0A-FA69-4C7B-8522-262AAA061382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772FAC0A-FA69-4C7B-8522-262AAA061382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C587DC2-0957-4800-B7C6-D3DA4CDFD234}
+	EndGlobalSection
+EndGlobal
